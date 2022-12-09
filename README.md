@@ -1,2 +1,3 @@
 # UCB_CS61B
-Materials related with UCB CS61B dats structure course. Contain useful links and assessments for students OUT of UCB 
+
+Materials related with UCB CS61B data structure course. Contain useful links and assessments for students OUT of UCB.
