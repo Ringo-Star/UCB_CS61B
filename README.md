@@ -1,12 +1,10 @@
-# UCB_CS61B
+# UCB_CS61B: Lecture Notes
 
 Materials related with UCB CS61B data structure course. Contain useful links and assessments for students OUT of UCB.
 
-# Lecture Notes
-
 ## Lec 1: Introduction to Java
 
-When we execute java file in a terminal, we need to first compile .java to ".class", for some reasons: 1. ".class" has been type checked to avoid errors. 2. ".class" is easier for computer to understand. 3. minor benefit: others only see your ".class" file, not source code[security]
+When we execute java file in a terminal, we need to first compile `.java` to `.class`, for some reasons: 1. `.class` has been type checked to avoid errors. 2. `.class` is easier for computer to understand. 3. minor benefit: others only see your `.class` file, not source code[security]
 
 Compile in Gitbash: `$ javac yourfile.java`  
 
