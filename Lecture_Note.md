@@ -18,5 +18,3 @@ Execute the code: `$ java yourfile`
 
 **Static Method vs. Instance Methods**
 
-
-
