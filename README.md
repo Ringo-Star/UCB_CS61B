@@ -1,4 +1,4 @@
-# <https://sp21.datastructur.es/>[UCB_CS61B]
+# [UCB_CS61B]<https://sp21.datastructur.es/>
 
 This is UCB's data structure course with Java, in this repo there are useful learning materials from this course. Feel free to use it with the following guide:
 
